@@ -3,6 +3,10 @@ def git_operation():
 
 def git_visit():
     print("Welcome to github!!")
+    
+def git_bye():
+    print("Thanks. Visit again.")
 
 git_operation()
 git_visit()
+git_bye()
